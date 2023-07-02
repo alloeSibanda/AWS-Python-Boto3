@@ -1,14 +1,14 @@
 # AWS-Python-Boto3
 
-This repository contains code for managing AWS infrastructure using Python and the Boto3 library. The code provided in this repository allows you to define and provision your AWS resources programmatically, making it easier to manage and version control your infrastructure.
+This repository contains code for managing AWS infrastructure using Python and the Boto3 library. The code provided in this repository allows you to define and provision your AWS resources programmatically, making it easier to manage and version control your infrastructure on Lambda.
 
 ### Prerequisites
 
 Before using the code in this repository, ensure that you have the following prerequisites:
 
-Python 3.x installed on your local machine.
 AWS account credentials with appropriate permissions to manage AWS resources.
-Boto3 library installed. You can install it using 'pip install boto3'.
+AWS Lambda
+
 
 #### Repository Structure
 
