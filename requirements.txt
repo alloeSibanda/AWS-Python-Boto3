@@ -1,1 +1,7 @@
+import json
+import boto3
 
+# Lambda function code goes here
+# The boto3 library is required for interacting with AWS services, and the json5 library is included as an example for handling JSON data. You can adjust the specific 
+  versions or include additional dependencies as needed.
+# Using this approach, you don't need to specify boto3 & json in the requirements.txt file, and the import statement will directly import the libraries from the Lambda execution environment.
